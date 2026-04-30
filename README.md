@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yasamin-Alemzadeh
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Artifical Intelligence
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Yasaminalemzadeh541@gmail.com
 
 <!---
